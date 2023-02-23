@@ -1,0 +1,8 @@
+name: Hunted
+author: WatsonLLC
+description: Hunted plugin
+version: 0.0.1
+api-version: 1.19
+main: com.watsonllc.hunted.Hunted
+commands:
+  hunter:
